@@ -114,7 +114,7 @@
     "ts-loader": "^8.0.14",
     "vscode-languageserver-protocol": "^3.16.0",
     "webpack": "^5.19.0",
-    "webpack-cli": "^4.4.0"
+    "webpack-cli": "^4.10.0"
   },
   "dependencies": {
     "v12_language_service": "file:v12_language_service",
